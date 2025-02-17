@@ -1,7 +1,7 @@
 # Scintilla Network
 
-| [Dev Portal](https://docs.scintilla.network): Dev Docs | [Community Discord](https://discord.com/invite/xb4uxc9JeP): Support & Community | [Website](https://scintilla.network): Website |
-|:---:|:---:|:---:|
+| [Dev Portal](https://docs.scintilla.network): Dev Docs | [Community Discord](https://discord.com/invite/xb4uxc9JeP): Support & Community | [Website](https://scintilla.network): Website | [Whitepaper](https://whitepaper.scintilla.network)
+|:---:|:---:|:---:|:---:|
 
 ## Components
 
