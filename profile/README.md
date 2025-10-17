@@ -20,6 +20,7 @@
 | [hashes](https://github.com/Scintilla-Network/hashes) | Hash functions |
 | [signatures](https://github.com/Scintilla-Network/signatures) | Signature & Key exchange |
 | [ciphers](https://github.com/Scintilla-Network/ciphers) | Ciphers encrypt/decrypt |
+| [trees](https://github.com/Scintilla-Network/trees) | Merkle, PatriciaTrees and other tries |
 | Apps | |
 | [Scintilla Connect](https://github.com/Scintilla-Network/scintilla-connect) | Chrome extension & wallet |
 | Devs || 
