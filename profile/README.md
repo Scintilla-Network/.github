@@ -24,5 +24,6 @@
 | Apps | |
 | [Scintilla Connect](https://github.com/Scintilla-Network/scintilla-connect) | Chrome extension & wallet |
 | Devs || 
+| [Serialize](https://github.com/Scintilla-Network/serialize) | Series of utilities to serialize and deserialize from complex data structures |
 | [Litest](https://github.com/Scintilla-Network/litest) | Dependency-free test framework (Vitest without supply-attack) risks |
 
